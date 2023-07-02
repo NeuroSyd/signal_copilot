@@ -1,4 +1,4 @@
-# signal_copilot
+# Bio-Signal Copilot (SignalGPT)
 BioSignal Copilot: Leveraging the power of LLMs in drafting reports for biomedical signals
 
 Files and descriptions
